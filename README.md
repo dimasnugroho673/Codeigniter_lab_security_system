@@ -1,2 +1,2 @@
-# Codeigniter_lab_security_system
+# Codeigniter lab security system
 Ini adalah repository yang berisi kumpulan modul modul komponen sistem pada codeigniter, seluruh modul-modul yang ada disini telah dibuat dengan standarisasi advanced security agar terjaminnya transaksi data keluar masuk database. Modul-modul yang ada disini seperti login, keamanan form, cookie, dibuat dengan beberapa tahap dan akan terus diupdate oleh saya. Jadi stay tune aja ya :D
